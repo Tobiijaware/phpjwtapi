@@ -1,0 +1,12 @@
+{
+    "name": "hp/phprestapijwt",
+    "authors": [
+        {
+            "name": "Tobiijaware",
+            "email": "miketobicarter@gmail.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^5.4"
+    }
+}
